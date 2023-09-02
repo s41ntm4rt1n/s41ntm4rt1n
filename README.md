@@ -16,6 +16,8 @@
 - 📫 How to reach me **brianmartinmurimi@gmail.com**
 
 - 📄 Know about my experiences [https://www.robotsaint.com/about](https://www.robotsaint.com/about)
+  
+- 😂Fun Fact - **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
