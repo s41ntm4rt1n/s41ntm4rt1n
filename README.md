@@ -11,7 +11,7 @@
 - 📄 Know about my experiences https://www.robotsaint.com/about<br><br>
 - 😂Fun Fact - I'm funny
 
-  <h2 align="center">🌐 Socials:</h2>
+  #<h2 align="center">🌐 Socials:</h2>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/br1anmart1n) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Br1anMartin) 
 
     <h2 align="center"> 💻 Tech Stack:</h2>
