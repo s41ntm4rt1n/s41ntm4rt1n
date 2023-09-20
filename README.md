@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Brian Martin Murimi</h1>
 <h3 align="center">A passionate Django backend developer from Kenya.</h3>
 
-- 🔭 I’m currently working on a anonymous chat application<br><br>- 🌱 I’m currently learning Django Rest Framework and React.js Framework<br><br>👯 I’m looking to collaborate on a online software marketplace platform<br><br> 👨‍💻 All of my projects are available at https://www.robotsaint.com/home/portfolio<br><br> 📝 I regularly write articles on https://www.robotsaint.com/blog/<br><br> 💬 Ask me about django, html, bootstrap<br><br>📫 How to reach me brianmartinmurimi@gmail.com<br><br>📄 Know about my experiences https://www.robotsaint.com/about<br><br>😂Fun Fact - I think I'm funny
+- 🔭 I’m currently working on a anonymous chat application<br><br>
+- 🌱 I’m currently learning Django Rest Framework and React.js Framework<br><br>
+- 👯 I’m looking to collaborate on a online software marketplace platform<br><br>
+- 👨‍💻 All of my projects are available at https://www.robotsaint.com/home/portfolio<br><br>
+- 📝 I regularly write articles on https://www.robotsaint.com/blog/<br><br>
+- 💬 Ask me about django, html, bootstrap<br><br>
+- 📫 How to reach me brianmartinmurimi@gmail.com<br><br>
+- 📄 Know about my experiences https://www.robotsaint.com/about<br><br>
+- 😂Fun Fact - I'm funny
 
 
 ## 🌐 Socials:
