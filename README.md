@@ -4,11 +4,11 @@
 - 🔭 I’m currently working on a anonymous chat application<br><br>
 - 🌱 I’m currently learning Django Rest Framework and React.js Framework<br><br>
 - 👯 I’m looking to collaborate on a online software marketplace platform<br><br>
-- 👨‍💻 All of my projects are available at https://www.robotsaint.com/home/portfolio<br><br>
-- 📝 I regularly write articles on https://www.robotsaint.com/blog/<br><br>
+- 👨‍💻 All of my projects are available at https://robotsaint.com/<br><br>
+- 📝 I regularly write articles on https://robotsaint.com/blog/<br><br>
 - 💬 Ask me about django, html, bootstrap<br><br>
 - 📫 How to reach me brianmartinmurimi@gmail.com<br><br>
-- 📄 Know about my experiences https://www.robotsaint.com/about<br><br>
+- 📄 Know about my experiences https://robotsaint.com/about<br><br>
 - 😂Fun Fact - I'm funny
 
 
